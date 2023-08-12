@@ -1,3 +1,3 @@
 # MegaManX4_DebugTools
 this a little example of using https://github.com/mateusfavarin/psx-modding-toolchain/tree/main/docs (Redhot's tool) to modify PS1 
-games , in this case MegaMan X4.
+games , in this case MegaMan X4. To setup everything 1st make sure you follow the steps over at Redhot's repro of the modding tool then place the MegaManX4 folder (this repro) in the games folder , then use the mod.bat to compile everything via option 1 then option 4 to build (make sure you have mkpsxiso in your envirmeant variables and that you have MMX4.BIN + MMX4.CUE in the build folder) . If you want the Collsion Viewer to work you need to replace with the font Texture in LOAD_U.ARC then edit the xaml file that was generated in option 4 so that it uses your modified file.
