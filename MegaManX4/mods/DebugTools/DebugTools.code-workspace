@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"common.h": "c",
+			"tools.h": "c",
+			"gpu.h": "c",
+			"object.h": "c",
+			"libgpu.h": "c"
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+  "compiler": {
+    "function_sections": 1,
+    "reorder_functions": 0,
+    "optimization": 4,
+    "debug": 1,
+    "psyq": 1,
+    "8mb": 0
+  },
+  "versions": [
+    {
+      "american": {
+        "name": "MMX4.bin",
+        "symbols": [
+          "common.txt",
+          "object.txt",
+          "gpu.txt",
+          "layer.txt"
+        ],
+        "build_id": 561
+      }
+    },
+    {
+      "japn": {
+        "name": "RMX4.BIN",
+        "symbols": [
+          "common.txt",
+          "object.txt"
+        ],
+        "build_id": 902
+      }
+    },
+    {
+      "pog": {
+        "name": "POG.BIN",
+        "symbols": [
+          "common.txt",
+          "object.txt",
+          "gpu.txt",
+          "layer.txt"
+        ],
+        "build_id": 420
+      }
+    }
+  ]
+}
