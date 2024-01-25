@@ -5,6 +5,7 @@
     "optimization": 4,
     "debug": 1,
     "psyq": 1,
+    "mininoob": 0,
     "8mb": 0
   },
   "versions": [
